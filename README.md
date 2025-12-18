@@ -2,7 +2,7 @@
 <h3 align="center">Go Backend Developer • Telegram Mini Apps • Python Bots</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zhaba1337228&style=flat&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=Zhaba1337228&color=blue" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ---
 
 ### 📫 Contacts
-- Telegram: **@vasakuro2000**
+- Telegram: **@Zhaba1337**
 - GitHub: **https://github.com/Zhaba1337228**
 
 ---
