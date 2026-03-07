@@ -5,12 +5,21 @@
   <img src="https://komarev.com/ghpvc/?username=Zhaba1337228&color=blue" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/Zhaba1337228">
+    <img src="https://img.shields.io/github/followers/Zhaba1337228?style=for-the-badge" />
+  </a>
+  <a href="https://t.me/Zhaba1337">
+    <img src="https://img.shields.io/badge/Telegram-@Zhaba1337-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ### 🧩 About Me
 - 🔧 Backend developer focused on **Go** and **Python**
 - 🤖 Building **Telegram Bots** and **Telegram Mini Apps**
-- ⚡ APIs with **FastAPI**
+- ⚡ Developing APIs with **FastAPI** and **Go**
 - 🧠 Interested in **cybersecurity** and backend architecture
 
 ---
@@ -27,28 +36,29 @@
   <img src="https://streak-stats.demolab.com?user=Zhaba1337228&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zhaba1337228&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhaba1337228&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ### 🚀 What I Build
-- 🧠 **Telegram Mini Apps** (React + Telegram WebApp API)
-- 🤖 **Telegram Bots** (Python)
-- ⚙️ **Backend services** (Go, FastAPI)
+- 🧠 **Telegram Mini Apps** — React + Telegram WebApp API
+- 🤖 **Telegram Bots** — Python
+- ⚙️ **Backend services** — Go, FastAPI
 - 🔐 Authentication, JWT, roles
 - 🗄 Databases: **PostgreSQL, Redis, MySQL, SQLite**
 
 ---
 
+### 📌 Featured Projects
+<p align="center">
+  <a href="https://github.com/Zhaba1337228">
+    <img src="https://img.shields.io/badge/Open%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 📫 Contacts
 - Telegram: **@Zhaba1337**
-- GitHub: **https://github.com/Zhaba1337228**
+- GitHub: **[github.com/Zhaba1337228](https://github.com/Zhaba1337228)**
 
 ---
 
