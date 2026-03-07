@@ -41,6 +41,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Zhaba1337228/Zhaba1337228/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 ---
 
 ### 🚀 What I Build
